@@ -1,0 +1,1 @@
+# tcg-collect-api
